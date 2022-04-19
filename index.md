@@ -30,11 +30,17 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 
 ### References 
 [1] Y. Ai, M. Peng and K. Zhang, "Edge computing technologies for Internet of Things: a primer," Digital Communications and Networks, 2017. 
+
 [2] Intel Corporation, "OpenVINO™ toolkit Documentation," Intel Corporation, 2021. [Online]. Available: https://docs.openvino.ai. [Accessed 9 12 2021].
+
 [3] A. Kozlov, I. Lazarevich and V. Shamporov, "Neural Network Compression Framework for fast model inference," arXiv, p. 13, 2020. https://arxiv.org/abs/2002.08679
+
 [4] Pytorch, "QUANTIZATION," Torch Contributors, 2019. [Online]. Available: https://pytorch.org/docs/stable/quantization.html. [Accessed 9 12 2021].
+
 [5] A. Kozlov, M. Kaglinskaya, I. Lazarevich, A. Dokuchaev and Y. Gorbachev, "Model Optimization Pipeline for Inference Speedup with OpenVINO™ Toolkit," Intel Corporation, 31 January 2021. [Online]. Available: https://www.intel.com/content/www/us/en/artificial-intelligence/posts/model-optimization-pipeline-with-openvino-toolkit.html. [Accessed 9 12 2021].
+
 [6] Intel Corporation, "OpenVINO™ Training Extensions," Intel Corporation, 2021. [Online]. Available: https://github.com/openvinotoolkit/training_extensions. [Accessed 9 12 2021].
+
 [7] Intel Corporation, "Optimizing PyTorch models with Neural Network Compression Framework of OpenVINO by 8-bit quantization.," Intel Corporation, 2021. [Online]. 
 
 
