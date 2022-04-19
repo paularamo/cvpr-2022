@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: CVPR-2022 - OpenVINO
+logo: /img/logo.png
+description: How to get quick and performant model for your edge application. From data to application.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
