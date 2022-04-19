@@ -24,8 +24,8 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 
 1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations.
 2.	OpenVINO Training Extensions definition, architecture, and use cases. 
-3.  Step-by-step tutorial on how to integrate an existing project with OTE tools for getting significant speedup.
-4.	Optimization using NNCF and POT. Hands-on experience.
+3.  Step-by-step tutorial on how to integrate to train a new model using OTE tools for getting significant speedup.
+4.	Step-by-step tutorial on how to integrate to train/optimize a new model using NNCF and POT. Hands-on experience.
 5.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors).
 
 ### References 
