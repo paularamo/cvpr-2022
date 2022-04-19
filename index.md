@@ -1,5 +1,5 @@
 ## CVPR-2022
-## How to get quick and performant model for your edge application. From data to application.
+## How to get quick and performant model for your edge application. _From data to application._
 
 ### Course description:
 
