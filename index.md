@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## CVPR-2022
+### How to get quick and performant model for your edge application. From data to application.
 
 You can use the [editor on GitHub](https://github.com/paularamo/cvpr-2022.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
