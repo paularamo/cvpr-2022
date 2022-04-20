@@ -8,7 +8,7 @@ One of the most important technology shifts of recent times is to use edge proce
 Not all deep learning (DL) models have been designed to run on the resource-constrained edge. Most deep neural networks (DNNs) have been designed to achieve the highest possible accuracy, without considering a trade-off between performance and accuracy to develop more computationally efficient DLs [3]. A common approach provided by most DL frameworks to accelerate inference is, to quantize a model to INT8 precision [4] and to consider a matrix multiplication reduction (sparsity) to obtain good results [5]. However, these good results also will depend on the dataset distribution you are using in between, training, testing, and validation.
 To address these challenges, OpenVINO has developed a convenient environment (OpenVINO Training Extensions OTE) (Figure 1) to train a new model with more efficient architecture using your own dataset, keeping the distribution of itself and getting the best possible results to deploy your model into the edge [6], achieving a 3.6x increase in processing speed compared to the original FP16 model (SSD-300) [5]. 
 
-![](https://user-images.githubusercontent.com/10940214/164093127-c02cbf5e-506d-490b-876c-a1be2fd39c3d.png)
+![image](https://user-images.githubusercontent.com/10940214/164305989-a43138e4-a0e3-45ce-8d84-980ffc18b98b.png)
 
 
 _Figure 1. Optimization pipeline for deep learning models_
@@ -23,11 +23,13 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 
 ### Outline
 
-1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations.
-2.	OpenVINO Training Extensions definition, architecture, and use cases. 
-3.  Step-by-step tutorial on how to integrate to train a new model using OTE tools for getting significant speedup.
-4.	Step-by-step tutorial on how to integrate to train/optimize a new model using NNCF and POT. Hands-on experience.
-5.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors).
+1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations. - Deck
+2.	[OpenVINO Training Extensions definition, architecture, and use cases].(https://docs.google.com/document/d/1ce4_2ifOAodHM_ZFZ42Fbj6JW-AMFBMuEXKMk3P1maA/edit)
+3.  [Step-by-step tutorial on how to integrate to train a new model using OTE tools for getting significant speedup](https://github.com/openvinotoolkit/training_extensions).
+    - [Training your own model your your own data](https://github.com/openvinotoolkit/training_extensions/blob/develop/ote_cli/notebooks/train.ipynb).
+    - [Evaluate and test your model](https://github.com/openvinotoolkit/training_extensions/blob/eugene/dev/ote_cli/notebooks/eval.ipynb).
+5.	[Step-by-step tutorial on how to integrate to train/optimize a new model using NNCF and POT. Hands-on experience](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/111-detection-quantization).
+6.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors). - Retail example
 
 ### References 
 [1] Y. Ai, M. Peng and K. Zhang, "Edge computing technologies for Internet of Things: a primer," Digital Communications and Networks, 2017. 
