@@ -23,12 +23,18 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 
 ### Outline
 
-1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations. - Deck
-2.	[OpenVINO Training Extensions definition, architecture, and use cases].(https://docs.google.com/document/d/1ce4_2ifOAodHM_ZFZ42Fbj6JW-AMFBMuEXKMk3P1maA/edit)
+1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations. - Deck (pending - I want also include here general aspects of OpenVINO)
+
+2.	[OpenVINO Training Extensions definition, architecture, and use cases](https://docs.google.com/document/d/1ce4_2ifOAodHM_ZFZ42Fbj6JW-AMFBMuEXKMk3P1maA/edit).
+
 3.  [Step-by-step tutorial on how to integrate to train a new model using OTE tools for getting significant speedup](https://github.com/openvinotoolkit/training_extensions).
     - [Training your own model your your own data](https://github.com/openvinotoolkit/training_extensions/blob/develop/ote_cli/notebooks/train.ipynb).
     - [Evaluate and test your model](https://github.com/openvinotoolkit/training_extensions/blob/eugene/dev/ote_cli/notebooks/eval.ipynb).
-5.	[Step-by-step tutorial on how to integrate to train/optimize a new model using NNCF and POT. Hands-on experience](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/111-detection-quantization).
+
+4.  [OpenVINO Model Optimization with Model Optimizer, POT, and NNCF](https://docs.google.com/document/d/1EpXVqIFo2YZYcJaqgck-NMyzMB-z47_6wbGyywcyTwg/edit#heading=h.fo7i3fb4o6je) - [Pending](https://docs.google.com/document/d/1iQR5OHGEw5qVj-2DN300BblVgZq5kmgt_0NlpaVFa-4/edit#heading=h.qqoojrkgtp9h)
+
+5.	[Step-by-step tutorial on how to integrate to train/optimize a new model using NNCF and POT. Hands-on experience](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/111-detection-quantization). - Notebook (pending)
+
 6.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors). - Retail example
 
 ### References 
