@@ -3,4 +3,4 @@ logo: /img/logo.png
 description: How to get quick and performant model for your edge application. From data to application.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
