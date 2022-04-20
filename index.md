@@ -37,6 +37,15 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 
 6.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors). - Retail example
 
+### What will you need?
+
+You should have access to an Intel Laptop. Also we could provide access to [Intel DevCloud for the Edge](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/tutorials.html?s=Newest). Also, they should be familiar with basic concepts of computer vision and deep learning, such as convolutional neural networks and PyTorch and TensorFlow frameworks.
+
+### Prework
+Pending - OpenVINO notebooks installation.
+Prework challenge.
+
+
 ### References 
 [1] Y. Ai, M. Peng and K. Zhang, "Edge computing technologies for Internet of Things: a primer," Digital Communications and Networks, 2017. 
 
