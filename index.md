@@ -42,7 +42,7 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 You should have access to an Intel Laptop. Also we could provide access to [Intel DevCloud for the Edge](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/tutorials.html?s=Newest). Also, they should be familiar with basic concepts of computer vision and deep learning, such as convolutional neural networks and PyTorch and TensorFlow frameworks.
 
 ### Prework
-Pending - OpenVINO notebooks installation.
+Pending - OpenVINO notebooks installation. (pending - [These instructions](https://intel.sharepoint.com/:b:/r/sites/aiinferenceevangelism/Shared%20Documents/General/Events/7-8.2_AI%20Everywhere/Prework.pdf?csf=1&web=1&e=eNJOcx))
 Prework challenge.
 
 
