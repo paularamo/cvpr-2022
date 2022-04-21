@@ -5,6 +5,8 @@ author:
   social:
     email:    mailto:paula.ramos@intel.com
     linkedin: https://www.linkedin.com/in/paula-ramos-41097319/
+  picture:
+    path:   /img/paula.jpg
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
