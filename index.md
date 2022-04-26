@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/10940214/165389235-1d5a8994-b0c4-49b0-8ffb-a29f4062f355.png" width=500/>
-  <img src="https://user-images.githubusercontent.com/10940214/165389618-63e6b369-76cd-4880-9582-360c58c8675d.png" width=500/>
+  <img src="https://user-images.githubusercontent.com/10940214/165389235-1d5a8994-b0c4-49b0-8ffb-a29f4062f355.png" width=200/>
+  <img src="https://user-images.githubusercontent.com/10940214/165389618-63e6b369-76cd-4880-9582-360c58c8675d.png" width=200/>
 </p>
 
 # How to get quick and performant model for your edge application. _From data to application._
