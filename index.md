@@ -1,6 +1,6 @@
-## How to get quick and performant model for your edge application. _From data to application._
+# How to get quick and performant model for your edge application. _From data to application._
 
-### Overview:
+## Overview:
 
 One of the most important technology shifts of recent times is to use edge processing to collect, process, analyze and make decisions on-site or send data to the cloud. In addition, the increasing connection of millions or billions of sensors to the cloud will have a huge impact on bandwidth consumption, which will make low-latency applications unfeasible in the cloud. So, thinking about intermediate or full processing at the edge and sending reduced information to the cloud would reduce the impact on data transfer/processing, with another possible solution being the emerging 5G networks [1]. Currently, Intel through its OpenVINO toolkit contributes mostly generating low latency computing systems at the edge, while retaining the same accuracy as the original models. [2]. 
 
@@ -16,10 +16,10 @@ You should have access to an Intel Laptop. You should have basic concepts about 
 
 To get started, please check the followed pre-requisites. You may follow the 10 steps instruction below to have ready the environment on your laptop. Install all pre-requisites for [Windows](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows), [Ubuntu](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Ubuntu), [Fedora, CentOS or RedHat](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Red-Hat-and-CentOS), and [macOS](https://github.com/openvinotoolkit/openvino_notebooks/wiki/macOS)
 
-#### Prework-challenge
+### Prework-challenge
 Pending
 
-### Outline
+## Outline
 
 1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations. OpenVINO, OTE, and OpenVINO Optimization.
 
@@ -30,7 +30,7 @@ Pending
 4.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors).
 
 
-### References 
+## References 
 [1] Y. Ai, M. Peng and K. Zhang, "Edge computing technologies for Internet of Things: a primer," Digital Communications and Networks, 2017. 
 
 [2] Intel Corporation, "OpenVINO™ toolkit Documentation," Intel Corporation, 2021. [Online]. Available: https://docs.openvino.ai. [Accessed 9 12 2021].
