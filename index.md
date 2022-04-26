@@ -40,7 +40,7 @@ _Figure 2. Detailed optimization pipeline for development and deployment of deep
 
 ### What will you need?
 
-You should have access to an Intel Laptop. Also we could provide access to [Intel DevCloud for the Edge](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/tutorials.html?s=Newest). Also, they should be familiar with basic concepts of computer vision and deep learning, such as convolutional neural networks and PyTorch and TensorFlow frameworks.
+You would need a computer (laptop/tablets) with an Intel processor (see [supported devices](https://docs.openvino.ai/latest/openvino_docs_OV_UG_supported_plugins_Supported_Devices.html)) to repeat the work explained in the tutorial. Alternatively, you could access the hardware devices via [Intel DevCloud for the Edge](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/tutorials.html?s=Newest) over the cloud service. Also, they should be familiar with basic concepts of computer vision and deep learning, such as convolutional neural networks and PyTorch and TensorFlow frameworks. A laptop with a webcam is a plus for testing the interactive demos.
 
 ### Prework
 Pending - OpenVINO notebooks installation. (pending - [These instructions](https://intel.sharepoint.com/:b:/r/sites/aiinferenceevangelism/Shared%20Documents/General/Events/7-8.2_AI%20Everywhere/Prework.pdf?csf=1&web=1&e=eNJOcx))
