@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10940214/165389235-1d5a8994-b0c4-49b0-8ffb-a29f4062f355.png" />
+</p>
+
 # How to get quick and performant model for your edge application. _From data to application._
 
 ## Overview:
