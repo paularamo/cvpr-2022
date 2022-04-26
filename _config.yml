@@ -1,7 +1,7 @@
-title: OpenVINO by Intel - CVPR-2022
+title: OpenVINO by Intel CVPR-2022
 logo: /img/logo.png
 description: How to get quick and performant model for your edge application. From data to application.
-author:
+authors:
   social:
     email:    mailto:paula.ramos@intel.com
     linkedin: https://www.linkedin.com/in/paula-ramos-41097319/
