@@ -15,3 +15,6 @@
   
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
+
+https://medium.com/openvino-toolkit/easily-optimize-deep-learning-with-8-bit-quantization-1f9021926bd3
+https://medium.com/openvino-toolkit/introducing-a-training-add-on-for-openvino-toolkit-neural-network-compression-framework-7bf3ee1a1c4
