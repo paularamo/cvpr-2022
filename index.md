@@ -27,13 +27,18 @@ To get started, please check the followed pre-requisites. You may follow the 10 
 
 ## Outline
 
-1.	Motivation. Trend, edge-computing, and real-world scenarios for DL deployment and optimizations. OpenVINO, OTE, and OpenVINO Optimization.
-
-2.	OpenVINO Training Extensions definition, architecture, and use cases. Training from scratch, Retraining, Anomalib example.
-
-3.  OpenVINO Model Optimization with Model Optimizer, POT, and NNCF. how to integrate to train/optimize a new model using NNCF and POT. Hands-on experience. 
-
-4.	Evaluate and deploy your solution as an edge-computing system. The real case for object detection and instance segmentation on Intel Hardware (e.g. Xenon Server Processors, Gen 12th Mobile processors, and Integrated Graphics Processors).
+1. Prework – OpenVINO Notebooks installation. 
+2. General aspects of OpenVINO.
+   - Hands-on experience – OpenVINO Notebooks.
+3. General Aspects of Optimization process
+   - Model Optimizer.
+   - Post training Optimization.
+   - NNCF with segmentation model.
+   - Improve performance with AUTO plugin.
+4. OpenVINO Training Extensions (OTE).
+   - Anomaly detection with OTE.
+5. Anomalib by OpenVINO.
+   - End2End experience. Evaluate and deploy your solution as an edge-computing system
 
 
 ## References 
