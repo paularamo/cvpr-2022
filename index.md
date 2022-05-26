@@ -6,6 +6,11 @@
 
 # How to get quick and performant model for your edge application. _From data to application._
 
+## Organizers:
+
+[Paula Ramos](https://www.linkedin.com/in/paula-ramos-41097319/), [Raymond Lo](https://www.linkedin.com/in/raymondlo84/), [Helena Kloosterman](https://github.com/helena-intel), [Samet Akcay](https://www.linkedin.com/in/sametakcay/), [Zhuo Wu](https://www.linkedin.com/in/wuzhuo/) & [Yury Gorbachev](https://www.linkedin.com/in/yurygorbachev/)
+
+
 ## Overview:
 
 One of the most important technology shifts of recent times is to use edge processing to collect, process, analyze and make decisions on-site or send data to the cloud. In addition, the increasing connection of millions or billions of sensors to the cloud will have a huge impact on bandwidth consumption, which will make low-latency applications unfeasible in the cloud. So, thinking about intermediate or full processing at the edge and sending reduced information to the cloud would reduce the impact on data transfer/processing, with another possible solution being the emerging 5G networks [1]. Currently, Intel through its OpenVINO toolkit contributes mostly generating low latency computing systems at the edge, while retaining the same accuracy as the original models. [2]. 
