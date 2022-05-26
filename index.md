@@ -23,8 +23,7 @@ You would need a computer (laptop/tablet) with an [Intel Core Processor](https:/
 
 To get started, please check the followed pre-requisites. You may follow the 10 steps instruction below to have ready the environment on your laptop. Install all pre-requisites for [Windows](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows), [Ubuntu](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Ubuntu), [Fedora, CentOS or RedHat](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Red-Hat-and-CentOS), and [macOS](https://github.com/openvinotoolkit/openvino_notebooks/wiki/macOS)
 
-### Prework-challenge
-Pending
+![image](https://user-images.githubusercontent.com/10940214/170517878-79b1d4bd-b682-4dcb-968a-5a37363ec1a6.png)
 
 ## Outline
 
