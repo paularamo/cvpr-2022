@@ -6,7 +6,7 @@ _Repository_: https://github.com/openvinotoolkit/anomalib
 
 ### Final Task:
 
-1. After CVPR, install Anomalib in your laptop https://github.com/openvinotoolkit/anomalib. Windows 10/11 and Ubuntu are supported. If you have any issue with the installation please use our repository to make your questions.
+1. After CVPR, install Anomalib in your laptop https://github.com/openvinotoolkit/anomalib. Windows 10/11 and Ubuntu are supported. If you have any issue with the installation please use Anomalib repository to make your questions.
 2. Download [MVTec AD DataSet](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 3. Run [this notebook](https://github.com/openvinotoolkit/anomalib/blob/development/notebooks/001-getting-started/001-getting-started.ipynb) in the Anomalib environment.
 4. Create your own data.
