@@ -28,7 +28,7 @@ You would need a computer (laptop/tablet) with an [Intel Core Processor](https:/
 2. Run the notebooks [301](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino) and [401](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam)
 3. Share screenshoots of your results in our repository. Discussion thread [CVPR - Prework](https://github.com/openvinotoolkit/openvino_notebooks/discussions/568)
 
-We will have some prizes at the end of the tutorial for whom make this prework.
+### We will have some prizes at the end of the tutorial for whom make this prework.
 
 ![image](https://user-images.githubusercontent.com/10940214/170517878-79b1d4bd-b682-4dcb-968a-5a37363ec1a6.png)
 
