@@ -38,16 +38,16 @@ _Figure 2. Installation steps for Windows_
 
 1. Prework – OpenVINO Notebooks installation. 
 2. General aspects of OpenVINO.
-   - Hands-on experience – OpenVINO Notebooks. [Exercise 1](https://github.com/paularamo/cvpr-2022/blob/gh-pages/Exercise_1.md)
+   - Hands-on experience – OpenVINO Notebooks. [Exercise 1](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_1.md)
 3. General Aspects of Optimization process
-   - Model Optimizer. Exercise 2: [Background removal with OpenVINO IR](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/205-vision-background-removal)
-   - Post training Optimization. Exercise 3: [POT Quantization with a classification model](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino)
-   - NNCF with segmentation model. Exercise 4: []()
-   - Improve performance with AUTO plugin.
+   - Model Optimizer. [Exercise 2](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_2.md)
+   - Post training Optimization. [Exercise 3](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_3.md)
+   - NNCF with segmentation model. [Exercise 4](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_4.md)
+   - Improve performance with AUTO plugin. [Exercise 5](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_5.md)
 4. OpenVINO Training Extensions (OTE).
-   - Object Detection with OTE. Exercise 5: []()
+   - Object Detection with OTE. [Exercise 5](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_6.md)
 5. Anomalib by OpenVINO.
-   - End2End experience. Evaluate and deploy your solution using Anomalib. Exercise 6: []()
+   - End2End experience. Evaluate and deploy your solution using Anomalib. [Exercise 6](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_7.md)
 
 
 ## References 
