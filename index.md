@@ -21,14 +21,19 @@ _Figure 1. Optimization pipeline for deep learning models_
 
 Not all deep learning (DL) models have been designed to run on the resource-constrained edge. Most deep neural networks (DNNs) have been designed to achieve the highest possible accuracy, without considering a trade-off between performance and accuracy to develop more computationally efficient DLs [3]. A common approach provided by most DL frameworks to accelerate inference is, to quantize a model to INT8 precision [4] and to consider a matrix multiplication reduction (sparsity) to obtain good results [5]. OpenVINO Toolkit offers several tools for making a model run faster and take less memory: Model Optimizer, Post-training Optimization Tool (POT), and Neural Network Compression Framework (NNCF). However, these good results also will depend on the dataset distribution you are using in between, training, testing, and validation. To address these challenges, OpenVINO has developed a convenient environment (OpenVINO Training Extensions OTE) (Figure 1) to train a new model with more efficient architecture using your own dataset, keeping the distribution of itself and getting the best possible results to deploy your model into the edge [6], achieving a 3.6x increase in processing speed compared to the original FP16 model (SSD-300) [5]. 
 
-
-
 ## Prework:
 You would need a computer (laptop/tablet) with an [Intel Core Processor](https://docs.openvino.ai/latest/openvino_docs_OV_UG_supported_plugins_Supported_Devices.html). Alternatively, you could access the Intel hardware via [Intel DevCloud for the Edge](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/tutorials.html?s=Newest). Also, we recommend participants to be familiar with basic concepts of computer vision and deep learning, such as convolutional neural networks and PyTorch and TensorFlow frameworks. Note: A laptop with a built-in webcam is a plus for testing out the interactive demos.
 
 To get started, please check the followed pre-requisites. You may follow the 10 steps instruction below to have ready the environment on your laptop. Install all pre-requisites for [Windows](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows), [Ubuntu](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Ubuntu), [Fedora, CentOS or RedHat](https://github.com/openvinotoolkit/openvino_notebooks/wiki/Red-Hat-and-CentOS), and [macOS](https://github.com/openvinotoolkit/openvino_notebooks/wiki/macOS)
 
 ![image](https://user-images.githubusercontent.com/10940214/170517878-79b1d4bd-b682-4dcb-968a-5a37363ec1a6.png)
+
+### Prepare your self for the Intel's tutorial in CVPR
+1. Follow the instructions on this Wiki page https://github.com/openvinotoolkit/openvino_notebooks/wiki
+2. Run the notebooks [301](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino) and [401](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam)
+3. Share screenshoots of your results in our repository. Discussion thread [CVPR - Prework](https://github.com/openvinotoolkit/openvino_notebooks/discussions/568)
+
+We will have some prizes at the end of the tutorial for whom make this prework.
 
 ## Outline
 
