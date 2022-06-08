@@ -2,7 +2,9 @@
 
 Goal: Understand how we can accelerate the prototyping and deployment process in AI, using OpenVINO, jupyter notebooks and a simple webcam. We will be focus on model precision.
 
-Notebook: [401-object-detection-webcam](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam)
+Notebook: [402-pose-estimation-webcam](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/402-pose-estimation-webcam)
+
+![pose estimation](https://user-images.githubusercontent.com/4547501/138267961-41d754e7-59db-49f6-b700-63c3a636fad7.gif)
 
 Action: Run all cells and see the perfomance on your laptop using your webcam.
 
