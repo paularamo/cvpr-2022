@@ -31,7 +31,7 @@ You would need a computer (laptop/tablet) with an [Intel Core Processor](https:/
 ### We will have some prizes at the end of the tutorial for whom make this prework.
 
 ![image](https://user-images.githubusercontent.com/10940214/170517878-79b1d4bd-b682-4dcb-968a-5a37363ec1a6.png)
-
+_Figure 2. Installation steps for Windows_
 
 
 ## Outline
