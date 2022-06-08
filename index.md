@@ -45,9 +45,9 @@ _Figure 2. Installation steps for Windows_
    - NNCF with segmentation model. [Exercise 4](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_4.md)
    - Improve performance with AUTO plugin. [Exercise 5](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_5.md)
 4. OpenVINO Training Extensions (OTE).
-   - Object Detection with OTE. [Exercise 5](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_6.md)
+   - Object Detection with OTE. [Exercise 6](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_6.md)
 5. Anomalib by OpenVINO.
-   - End2End experience. Evaluate and deploy your solution using Anomalib. [Exercise 6](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_7.md)
+   - End2End experience. Evaluate and deploy your solution using Anomalib. [Exercise 7](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_7.md)
 
 
 ## References 
