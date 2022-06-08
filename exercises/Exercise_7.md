@@ -12,7 +12,7 @@ _Repository_: https://github.com/openvinotoolkit/anomalib
 4. Create your own data.
 5. Modify the dataset section of your config.yaml file in this way:
 
-'''
+```
 # Replace the dataset configs with the following.
 dataset:
   name: <your_dataset_name>
@@ -42,7 +42,8 @@ dataset:
     use_random_tiling: False
     random_tile_count: 16
 
-'''
+```
+
 5. Don't run the cells with mask_images variables.
 6. Show us your anomaly detection, sharing with us your result using this Discussion thread, using "Final Task" and your name in the header message.
 https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
