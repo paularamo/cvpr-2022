@@ -1,10 +1,4 @@
----
-title: Basic with OpenVINO
-layout: template
-filename: Exercise_1.md
---- 
-
-Exercise 1: Basic with OpenVINO
+## Exercise 1: Basic with OpenVINO
 
 Goal: Understand how we can accelerate the prototyping and deployment process in AI, using OpenVINO, jupyter notebooks and a simple webcam. We will be focus on model precision.
 
