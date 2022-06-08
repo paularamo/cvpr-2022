@@ -6,7 +6,7 @@ Follow us in LinkedIn and Medium
 [Paula Ramos](https://www.linkedin.com/in/paula-ramos-41097319/)
 [Raymond Lo](https://www.linkedin.com/in/raymondlo84/)
 
-Let’s stay connected through the [Intel Developer Community](intel.com/content/www/us/en/forms/developer/edge-5g/stay-connected.html)
+Let’s stay connected through the [Intel Developer Community](https://intel.com/content/www/us/en/forms/developer/edge-5g/stay-connected.html)
 
 Make your contributions to the OpenVINO_notebooks repository https://github.com/openvinotoolkit/openvino_notebooks/blob/main/CONTRIBUTING.md
 
