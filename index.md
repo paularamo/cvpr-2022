@@ -38,7 +38,7 @@ _Figure 2. Installation steps for Windows_
 
 1. Prework – OpenVINO Notebooks installation. 
 2. General aspects of OpenVINO.
-   - Hands-on experience – OpenVINO Notebooks. Exercise 1: [Basic with OpenVINO](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/402-pose-estimation-webcam)
+   - Hands-on experience – OpenVINO Notebooks. [Exercise 1] (https://github.com/paularamo/cvpr-2022/blob/gh-pages/Exercise_1.md)
 3. General Aspects of Optimization process
    - Model Optimizer. Exercise 2: [Background removal with OpenVINO IR](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/205-vision-background-removal)
    - Post training Optimization. Exercise 3: [POT Quantization with a classification model](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino)
