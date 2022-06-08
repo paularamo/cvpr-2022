@@ -49,6 +49,8 @@ https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
 
 We will announce prizes for this Final task on Social Media, so stay connected with us.
 
+
 Paula Ramos https://www.linkedin.com/in/paula-ramos-41097319/
+
 Raymond Lo https://www.linkedin.com/in/raymondlo84/
 
