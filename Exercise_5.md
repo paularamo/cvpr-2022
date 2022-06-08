@@ -1,0 +1,18 @@
+## Exercise 5: POT Quantization with a classification model
+
+_Goal_: Understand the Automatic device selection with OpenVINO
+
+_Notebook_: [106-auto-device](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/106-auto-device)
+
+![image](https://user-images.githubusercontent.com/10940214/172625024-ee6ea7b7-104f-415d-a3cb-edb007d8c147.png)
+
+_Action_: Run all cells and see the perfomance on your laptop.
+
+### Task #5:
+
+1. Change the device to CPU only or iGPU only and compare the throughput and latency that could be achieved with only CPU and iGPU, to see how auto could help to achieve for different performance targets.
+2. Describe your findings and.
+3. Share with us your result using this Discussion thread, using Task # 5 and your name in the header message.
+https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
+
+
