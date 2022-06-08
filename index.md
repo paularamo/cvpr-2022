@@ -25,7 +25,7 @@ Not all deep learning (DL) models have been designed to run on the resource-cons
 You would need a computer (laptop/tablet) with an [Intel Core Processor](https://docs.openvino.ai/latest/openvino_docs_OV_UG_supported_plugins_Supported_Devices.html). Alternatively, you could access the Intel hardware via [Intel DevCloud for the Edge](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/tutorials.html?s=Newest). Also, we recommend participants to be familiar with basic concepts of computer vision and deep learning, such as convolutional neural networks and PyTorch and TensorFlow frameworks. Note: A laptop with a built-in webcam is a plus for testing out the interactive demos.
 
 1. Follow the instructions on this Wiki page https://github.com/openvinotoolkit/openvino_notebooks/wiki
-2. Run the notebooks [110](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/110-ct-segmentation-quantize), [301](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino), and [401](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam)
+2. Run the notebooks [301](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino), and [401](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/401-object-detection-webcam)
 3. Share screenshoots of your results in our repository. Discussion thread [CVPR - Prework](https://github.com/openvinotoolkit/openvino_notebooks/discussions/568)
 
 ### We will have some prizes at the end of the tutorial for whom make this prework.
