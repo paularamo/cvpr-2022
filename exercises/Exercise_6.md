@@ -8,4 +8,6 @@ _Repository_: https://github.com/openvinotoolkit/training_extensions
 
 No task for this exercise.
 
-For your reference , see this [link](https://medium.com/openvino-toolkit/easily-optimize-deep-learning-with-8-bit-quantization-1f9021926bd3)
+----------------------------------------------
+
+### For your reference , see this [link](https://medium.com/openvino-toolkit/easily-optimize-deep-learning-with-8-bit-quantization-1f9021926bd3)
