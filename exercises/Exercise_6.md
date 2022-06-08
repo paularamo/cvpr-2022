@@ -7,3 +7,5 @@ _Repository_: https://github.com/openvinotoolkit/training_extensions
 ![image](https://user-images.githubusercontent.com/10940214/172624348-99ec3c0b-afca-4f1a-84a5-3a2cb4732821.png)
 
 No task for this exercise.
+
+For your reference , see this [link](https://medium.com/openvino-toolkit/easily-optimize-deep-learning-with-8-bit-quantization-1f9021926bd3 https://medium.com/openvino-toolkit/introducing-a-training-add-on-for-openvino-toolkit-neural-network-compression-framework-7bf3ee1a1c4)
