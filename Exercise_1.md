@@ -1,7 +1,7 @@
 ---
 title: Basic with OpenVINO
 layout: template
-filename: Exercise_1.md FILE HERE
+filename: Exercise_1.md
 --- 
 
 Exercise 1: Basic with OpenVINO
