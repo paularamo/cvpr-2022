@@ -38,16 +38,16 @@ _Figure 2. Installation steps for Windows_
 
 1. Prework – OpenVINO Notebooks installation. 
 2. General aspects of OpenVINO.
-   - Hands-on experience – OpenVINO Notebooks.
+   - Hands-on experience – OpenVINO Notebooks. Exercise 1: [Basic with OpenVINO](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/402-pose-estimation-webcam)
 3. General Aspects of Optimization process
-   - Model Optimizer.
-   - Post training Optimization.
-   - NNCF with segmentation model.
+   - Model Optimizer. Exercise 2: [Background removal with OpenVINO IR](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/205-vision-background-removal)
+   - Post training Optimization. Exercise 3: [POT Quantization with a classification model](https://github.com/openvinotoolkit/openvino_notebooks/tree/main/notebooks/301-tensorflow-training-openvino)
+   - NNCF with segmentation model. Exercise 4: []()
    - Improve performance with AUTO plugin.
 4. OpenVINO Training Extensions (OTE).
-   - Anomaly detection with OTE.
+   - Object Detection with OTE. Exercise 5: []()
 5. Anomalib by OpenVINO.
-   - End2End experience. Evaluate and deploy your solution as an edge-computing system
+   - End2End experience. Evaluate and deploy your solution using Anomalib. Exercise 6: []()
 
 
 ## References 
