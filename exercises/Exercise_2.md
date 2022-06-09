@@ -11,7 +11,7 @@ _Action_: Run all cells and see the perfomance on your laptop.
 
 ### Task #2:
 
-1. Run the background removal notebook and modify the precision of the model and the log_level.
+1. Run the background removal notebook and modify the model precision to FP32.
 2. Upload an image of your own and run the inference and compare the performance.
 3. Share with us your screenshot and result using this Discussion thread, using Task #2 and your name in the header message.
 https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
