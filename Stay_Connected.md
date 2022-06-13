@@ -14,12 +14,13 @@
 ### [Adrian Boguszewski](https://www.linkedin.com/in/adrianboguszewski/)
 
 
+## Intel Developer Community
 - Let’s stay connected through the [Intel Developer Community](https://intel.com/content/www/us/en/forms/developer/edge-5g/stay-connected.html)
 
-
+## Contribute in our notebooks repository
 - Make your contributions to the OpenVINO_notebooks repository https://github.com/openvinotoolkit/openvino_notebooks/blob/main/CONTRIBUTING.md
 
-
+## AI Dev Team Adventures
 - Follow our AI Dev Team Adventures https://devchallenge.intel.com/na_kaggle
 
 
