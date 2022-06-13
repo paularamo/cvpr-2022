@@ -43,7 +43,6 @@ dataset:
     random_tile_count: 16
 
 ```
-
 5. Don't run the cells with mask_images variables.
 6. Show us your anomaly detection, sharing with us your result using this Discussion thread, using "Final Task" and your name in the header message.
 https://github.com/openvinotoolkit/openvino_notebooks/discussions/569

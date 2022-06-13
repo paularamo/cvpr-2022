@@ -13,9 +13,8 @@ _Action_: Run all cells and see the perfomance on your laptop.
 
 ### Task #3:
 
-1. During the prework you ran the 301 notebooks. Run the 301-tensorflow-training-openvino-pot.ipynb, in the setting section change “DefaultQuantization” by “AccuracyAwareQuantization”.
-2. Describe if the performance is better or not for the “AccuracyAwareQuantization” algorithm, just using CPU.
-3. Share with us your result using this Discussion thread, using Task # 3 and your name in the header message.
+1. During the prework you ran the 301 notebooks. Run the 301-tensorflow-training-openvino-pot.ipynb. 
+2. Share with us your result using this Discussion thread, using Task # 3 and your name in the header message.
 https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
 
 
