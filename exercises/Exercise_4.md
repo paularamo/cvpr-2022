@@ -1,10 +1,12 @@
 ## Exercise 4: Quantize a Segmentation Model and Show Live Inference
 
-_Goal_: Understand the NNCF funtionality. 
+_Goal_: Understand the NNCF funtionality. Post Training Quantization
 
 _Notebook_: 
 
-_Action_: Run all cells and see the perfomance on your laptop.
+_Action_: 
+Download this pre-trained model and locate it into openvino_notebooks/notebooks/110-ct-segmentation-quantize/pretrained_model
+Run all cells and see the perfomance on your laptop.
 
 ### Task #4:
 
