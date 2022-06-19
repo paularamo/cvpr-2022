@@ -49,6 +49,9 @@ _Figure 2. Installation steps for Windows_
 5. Anomalib by OpenVINO.
    - End2End experience. Evaluate and deploy your solution using Anomalib. [Exercise 7](https://github.com/paularamo/cvpr-2022/blob/gh-pages/exercises/Exercise_7.md)
 
+## Slides
+
+Please use this [link](https://github.com/paularamo/cvpr-2022/raw/gh-pages/OpenVINO-CVPR_final_version.pdf) to download our presentation.
 
 ## References 
 [1] Y. Ai, M. Peng and K. Zhang, "Edge computing technologies for Internet of Things: a primer," Digital Communications and Networks, 2017. 
