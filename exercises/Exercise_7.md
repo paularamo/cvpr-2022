@@ -7,10 +7,11 @@ _Repository_: https://github.com/openvinotoolkit/anomalib
 ### Final Task:
 
 1. After CVPR, install Anomalib in your laptop https://github.com/openvinotoolkit/anomalib. Windows 10/11 and Ubuntu are supported. If you have any issue with the installation please use Anomalib repository to make your questions.
-2. Download [MVTec AD DataSet](https://www.mvtec.com/company/research/datasets/mvtec-ad)
-3. Run [this notebook](https://github.com/openvinotoolkit/anomalib/blob/development/notebooks/001-getting-started/001-getting-started.ipynb) in the Anomalib environment.
-4. Create your own data.
-5. Modify the dataset section of your config.yaml file in this way:
+2. Install Jupyter notebook or Jupyter Lab ```pip install jupyter```
+3. Download [MVTec AD DataSet](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+4. Run [this notebook](https://github.com/openvinotoolkit/anomalib/blob/development/notebooks/001-getting-started/001-getting-started.ipynb) in the Anomalib environment.
+5. Create your own data. (For Dobot Example I used this [dataset](https://drive.google.com/file/d/1gW9gPfRzrm7olhDF0Ry14ky4qwrQLxz6/view?usp=sharing))
+6. Modify the dataset section of your config.yaml file in this way:
 
 ```
 # Replace the dataset configs with the following.
@@ -43,8 +44,11 @@ dataset:
     random_tile_count: 16
 
 ```
+I created this [config file](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) for Dobot example 
+
 5. Don't run the cells with mask_images variables.
-6. Show us your anomaly detection, sharing with us your result using this Discussion thread, using "Final Task" and your name in the header message.
+6. I have created modifyied the original notebook to work with cubics dataset. 
+7. Show us your anomaly detection, sharing with us your result using this Discussion thread, using "Final Task" and your name in the header message.
 https://github.com/openvinotoolkit/openvino_notebooks/discussions/569
 
 We will announce prizes for this Final task on Social Media, so stay connected with us.
