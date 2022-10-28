@@ -22,12 +22,12 @@ Note: The next steps have not had a probe reader, I will come back to this steps
 17. Before to run [this notebook](
 https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks/001-getting-started-cubics/001-getting-started-Inference-cubics.ipynb), verify your dataset is well-connected with the notebook, verify that the inference is working and you can see the confidence result in the text file.
 18. It will take some minutes to run have the mode ready. You don't need a GPU, if you have one the training will be faster.
-19. Verify where the model is saved. The model will be saved in the same folder of this notebook ''' ..\results\padim\cubes\weights\model.ckpt '''.
+19. Verify where the model is saved. The model will be saved in the same folder of this notebook ``` ..\results\padim\cubes\weights\model.ckpt ```.
 ### Inference
 20. Come back to [the main notebook](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks_control/Anomalib_Dobot_cubics_FINAL.ipynb).
 21. Verify that you have the proper path for the model you have created. (Cell #2) ![image](https://user-images.githubusercontent.com/10940214/198702126-ee1c5e2b-a598-421a-98a3-743de5353028.png)
 21. Verify that you have the inference text file linked properly. Same path than the step #16.
-22. In the cell #3 change the flag status to "False"![image](https://user-images.githubusercontent.com/10940214/198696596-459c97be-8789-4878-a038-1fa417a0b4c8.png).
+22. In the cell #3 change the flag status to "False"![image](https://user-images.githubusercontent.com/10940214/198696596-459c97be-8789-4878-a038-1fa417a0b4c8.png)
 23. Run the notebook.
 Have Fun! 😊
 
