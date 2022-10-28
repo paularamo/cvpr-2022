@@ -7,8 +7,8 @@ Note: The next steps have not had a probe reader, I will come back to this steps
 4. Check all connections of the Dobot, verify if it is working using Dobot Studio.
 5. Connect the WebCam and verify it is working, using a simple camera application. Close this app after the verification.
 6. Install the vent on the dobot and verify if this is working using Dobot Studio.
-7. In Dobot Studio, find "Home" hitting "Home" Button. Then, find the Calibration Coordinates (Initial position upper-left corner of cubes array), Place Coordinates (Position where the arm should leave the cubic over the conveyor belt), and Anomaly Coordinates (Where do you want to release the abnormal cube. Replace those coordinates in the notebook. Camera stop will be same position that Place Coordinates with +90 in Z, see image bellow ![image](https://user-images.githubusercontent.com/10940214/198703796-3979d37d-ad9e-4e93-92b4-c575b1bde4b2.png)
-![image](https://user-images.githubusercontent.com/10940214/198698536-9a1c403d-c7e3-4186-955b-4ceefb8fb379.png)
+7. In Dobot Studio, find "Home" hitting "Home" Button. Then, find the Calibration Coordinates (Initial position upper-left corner of cubes array), Place Coordinates (Position where the arm should leave the cubic over the conveyor belt), and Anomaly Coordinates (Where do you want to release the abnormal cube. Replace those coordinates in the notebook. ![image](https://user-images.githubusercontent.com/10940214/198703796-3979d37d-ad9e-4e93-92b4-c575b1bde4b2.png)
+Camera stop will be same position that Place Coordinates with +90 in Z, see image bellow  ![image](https://user-images.githubusercontent.com/10940214/198698536-9a1c403d-c7e3-4186-955b-4ceefb8fb379.png)
 8. In the same environment where you have Dobot and Anomalib installed, verify you have jupyter notebooks or Jupyter Lab installed.
 9. Open [the main notebook](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks_control/Anomalib_Dobot_cubics_FINAL.ipynb) ![image](https://user-images.githubusercontent.com/10940214/198696689-1be3583d-0356-4305-a2cd-f51e4ff62409.png)
 ### Data acquisition
