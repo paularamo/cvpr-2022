@@ -23,7 +23,7 @@ Camera stop will be same position that Place Coordinates with +90 in Z, see imag
 ![image](https://user-images.githubusercontent.com/10940214/198699965-28330883-f2d6-4692-8452-8b2623f39514.png)
 17. Before to run [this notebook](
 https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks/001-getting-started-cubics/001-getting-started-Inference-cubics.ipynb), verify your dataset is well-connected with the notebook, verify that the inference is working and you can see the confidence result in the text file.
-18. It will take some minutes to run have the mode ready. You don't need a GPU, if you have one the training will be faster.
+18. It will take some minutes to run have the model ready. You don't need a GPU, if you have one the training will be faster.
 19. Verify where the model is saved. The model will be saved in the same folder of this notebook ``` ..\results\padim\cubes\weights\model.ckpt ```.
 ### Inference
 20. Come back to [the main notebook](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks_control/Anomalib_Dobot_cubics_FINAL.ipynb).
