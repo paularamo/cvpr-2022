@@ -16,7 +16,7 @@ Note: The next steps have not had a probe reader, I will come back to this steps
 12. Organize cubes with no abnormalities in the array and run the notebook, verify the notebook is creating the images.
 13. Organize cubes with abnormalities in the array and run the notebook again, verify the notebook is creating the images.
 ### Training
-14. Save [cubes_config.yaml](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) the this path '''../../anomalib/models/{MODEL}/cubes_config.yaml'''
+14. Save [cubes_config.yaml](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) the this path ```../../anomalib/models/{MODEL}/cubes_config.yaml```
 15. Verify if this file has this two lines (See the highlights on image). If the asnwer is "Yes", please delete those three lines.
 16. Change the inference.py file by this one https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/inference.py and modify this line of code with your path result. ![image](https://user-images.githubusercontent.com/10940214/198699965-28330883-f2d6-4692-8452-8b2623f39514.png)
 17. Before to run [this notebook](
