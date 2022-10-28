@@ -18,7 +18,8 @@ Camera stop will be same position that Place Coordinates with +90 in Z, see imag
 13. Organize cubes with abnormalities in the array and run the notebook again, verify the notebook is creating the images.
 ### Training
 14. Save [cubes_config.yaml](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) the this path ```../../anomalib/models/{MODEL}/cubes_config.yaml```
-15. Verify if this file has this two lines (See the highlights on image). If the asnwer is "Yes", please delete those three lines.
+15. Verify if this file has this two lines (See the highlights on image). If the asnwer is "Yes", please delete those three lines. ![image](https://user-images.githubusercontent.com/10940214/198704365-13b94a42-a9d9-4704-b9a5-6424c08fce9f.png)
+
 16. Change the inference.py file by this one https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/inference.py and modify this line of code with your path result. ![image](https://user-images.githubusercontent.com/10940214/198699965-28330883-f2d6-4692-8452-8b2623f39514.png)
 17. Before to run [this notebook](
 https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks/001-getting-started-cubics/001-getting-started-Inference-cubics.ipynb), verify your dataset is well-connected with the notebook, verify that the inference is working and you can see the confidence result in the text file.
