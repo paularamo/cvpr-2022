@@ -24,7 +24,8 @@ Camera stop will be the same position that Place Coordinates with +90 in Z. See 
 14. Save [cubes_config.yaml](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) the this path ```../../anomalib/models/{MODEL}/cubes_config.yaml```. See this link for understanding the config file creation, https://openvinotoolkit.github.io/anomalib/how_to_guides/train_custom_data.html.
 15. Verify if this file has these two lines (See the highlights on the image below). If the answer is "Yes", please delete those three lines. ![image](https://user-images.githubusercontent.com/10940214/198704365-13b94a42-a9d9-4704-b9a5-6424c08fce9f.png)
 16. Change the openvino_inference.py file to this one https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/openvino_inference.py and modify this line of code with your path result. 
-![image](https://user-images.githubusercontent.com/10940214/198699965-28330883-f2d6-4692-8452-8b2623f39514.png)
+![image](https://user-images.githubusercontent.com/10940214/199284768-60ca5a53-aabc-4ba8-a293-db4bcf431f8a.png)
+
 17. Before running [this notebook](
 https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/notebooks/001-getting-started-cubics/001-getting-started-Inference-cubics.ipynb), verify your dataset is well-connected with the notebook, verify that the inference is working and you can see the confidence result in the text file.
 18. It will take some minutes to have the model ready. You don't need a GPU. If you have one, the training will be faster.
