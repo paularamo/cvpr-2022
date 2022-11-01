@@ -1,11 +1,12 @@
+# Replace the dataset configs with the following.
 dataset:
-  name: cubes #options: [mvtec, btech, folder]
+  name: cubes
   format: folder
-  path: C:/Intel/datasets/datasets/cubes/training
+  path: ./datasets/cubes
   normal_dir: normal # name of the folder containing normal images.
-  abnormal_dir: anormal # name of the folder containing abnormal images
-  task: classification
-  mask: null
+  abnormal_dir: anormal # name of the folder containing abnormal images.
+  task: classification # classification or segmentation
+  mask: null #optional
   normal_test_dir: null # optional
   extensions: null
   split_ratio: 0.2  # normal images ratio to create a test split
@@ -15,8 +16,8 @@ dataset:
   test_batch_size: 32
   num_workers: 8
   transform_config:
-      train: null
-      val: null
+    train: null
+    val: null
   create_validation_set: true
   tiling:
     apply: false
@@ -29,7 +30,6 @@ dataset:
 model:
   name: padim
   backbone: resnet18
-  pre_trained: true
   layers:
     - layer1
     - layer2
@@ -40,31 +40,20 @@ metrics:
   image:
     - F1Score
     - AUROC
-  pixel:
-    - F1Score
-    - AUROC
   threshold:
-    method: adaptive #options: [adaptive, manual]
-    manual_image: null
-    manual_pixel: null
-    
-visualization:
-  show_images: False # show images on the screen
-  save_images: True # save images to the file system
-  log_images: True # log images to the available loggers (if any)
-  image_save_path: null # path to which images will be saved
-  mode: full # options: ["full", "simple"]
+    image_default: 3
+    pixel_default: 3
+    adaptive: true
 
 project:
   seed: 42
   path: ./results
-
-logging:
-  logger: [] # options: [comet, tensorboard, wandb, csv] or combinations.
-  log_graph: false # Logs the model graph to respective logger.
+  log_images_to: ["local"]
+  logger: false # options: [tensorboard, wandb, csv] or combinations.
 
 optimization:
-  export_mode: null #options: onnx, openvino
+  openvino:
+    apply: true
 
 # PL Trainer Args. Don't add extra parameter here.
 trainer:
