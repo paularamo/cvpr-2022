@@ -18,7 +18,7 @@ Camera stop will be the same position that Place Coordinates with +90 in Z. See 
 12. Organize cubes with no abnormalities in the array, run the notebook, and verify that the notebook is creating the images.
 13. Organize cubes with abnormalities in the array, rerun the notebook, and verify that the notebook is creating the images.
 ### Training
-14. Save [cubes_config.yaml](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) the this path ```../../anomalib/models/{MODEL}/cubes_config.yaml```
+14. Save [cubes_config.yaml](https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/cubes_config.yaml) the this path ```../../anomalib/models/{MODEL}/cubes_config.yaml```. See this link for understanding the config file creation, https://openvinotoolkit.github.io/anomalib/how_to_guides/train_custom_data.html.
 15. Verify if this file has these two lines (See the highlights on the image below). If the answer is "Yes", please delete those three lines. ![image](https://user-images.githubusercontent.com/10940214/198704365-13b94a42-a9d9-4704-b9a5-6424c08fce9f.png)
 16. Change the inference.py file to this one https://github.com/paularamo/cvpr-2022/blob/gh-pages/dobot/inference.py and modify this line of code with your path result. 
 ![image](https://user-images.githubusercontent.com/10940214/198699965-28330883-f2d6-4692-8452-8b2623f39514.png)
