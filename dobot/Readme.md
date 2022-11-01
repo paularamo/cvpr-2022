@@ -2,8 +2,10 @@
 Note: The following steps have yet to have a probe reader. I will come back to these steps on Oct 31/2022. I will update these notebooks, but this is a big picture of the complete process.
 
 1. Create an environment to run Anomalib + Dobot DLL (Python version 3.8)
-2. Install Anomalib. Follow the instructions here: https://github.com/openvinotoolkit/anomalib. 
+2. Install Anomalib. Follow the instructions here: https://github.com/openvinotoolkit/anomalib.
+ 
     a. Install Jupyter Lab or Jupyter Notebook: https://jupyter.org/install
+    b. Install OpenVINO in your actual enviroment using this ```pip install -r requirements\openvino.txt``` 
 3. Install Dobot requirements (See Dobot documentation here: https://en.dobot.cn/products/education/magician.html)
 4. Check all connections of the Dobot, and verify if it is working using Dobot Studio.
 5. Connect the WebCam and verify it works using a simple camera application. Close this app after the verification.
