@@ -3,7 +3,8 @@ Note: The following steps have yet to have a probe reader. I will come back to t
 
 1. Create an environment to run Anomalib + Dobot DLL (Python version 3.8)
 2. Install Anomalib. Follow the instructions here: https://github.com/openvinotoolkit/anomalib.
- 
+ ![image](https://user-images.githubusercontent.com/10940214/215845710-a7acaf6e-c4ed-4840-8bed-455674151a5d.png)
+
     a. Install Jupyter Lab or Jupyter Notebook: https://jupyter.org/install
     
     b. Install OpenVINO in your actual enviroment using this ```pip install -r requirements\openvino.txt``` 
